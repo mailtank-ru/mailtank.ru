@@ -6678,7 +6678,6 @@ a {
   transition: all 0.3s ease-in-out;
 }
 .pricing1:hover {
-  cursor: pointer;
   float: right;
   margin-top: 30px;
   -webkit-transition: all 0.3s ease-in-out;
@@ -6709,7 +6708,6 @@ a {
   transition: all 0.3s ease-in-out;
 }
 .pricing3:hover {
-  cursor: pointer;
   margin-top: 30px;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -7530,7 +7528,6 @@ footer p a:hover {
     transition: all 0.3s ease-in-out;
   }
   .pricing1:hover {
-    cursor: pointer;
     float: none;
     margin-top: 0;
     -webkit-transition: all 0.3s ease-in-out;
@@ -7561,7 +7558,6 @@ footer p a:hover {
     transition: all 0.3s ease-in-out;
   }
   .pricing3:hover {
-    cursor: pointer;
     margin-top: 30px;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
